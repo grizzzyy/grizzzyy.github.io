@@ -2,20 +2,20 @@
 
 A modern, responsive portfolio website built with React, Vite, and Tailwind CSS.
 
-## 🎨 Design
+## Design
 
 - **Color Palette**: Soft pink, mauve, cream, and muted plum tones
 - **Typography**: Inter (body) + Playfair Display (headings)
 - **Style**: Modern, elegant, and professional with subtle animations
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React** - UI framework
 - **Vite** - Build tool
 - **Tailwind CSS** - Styling
 - **Lucide React** - Icons
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 src/
@@ -33,7 +33,7 @@ src/
 └── index.css           # Global styles + Tailwind
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Install dependencies
 ```bash
@@ -55,7 +55,7 @@ npm run build
 npm run preview
 ```
 
-## 🌐 Deploying to GitHub Pages
+## Deploying to GitHub Pages
 
 ### Option 1: Using GitHub Actions (Recommended)
 
@@ -110,7 +110,7 @@ jobs:
         id: deployment
 ```
 
-## ✏️ Customization
+## Customization
 
 ### To edit content:
 - **Personal info**: Edit text in each component file
@@ -121,6 +121,6 @@ jobs:
 ### To change colors:
 - Edit `tailwind.config.js` to modify the color palette
 
-## 📝 License
+## License
 
 © 2026 Griselda Ramirez Torres. All rights reserved.
