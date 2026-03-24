@@ -33,7 +33,7 @@ const Contact = () => {
     {
       icon: Linkedin,
       label: 'LinkedIn',
-      href: 'https://linkedin.com/in/your-profile',
+      href: 'https://www.linkedin.com/in/griselda-ramirez-torres/',
       color: 'hover:bg-blue-600 hover:text-white'
     }
   ];
